@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+train/
+archive (2)/
