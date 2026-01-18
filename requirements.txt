@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit run main_app.py
+cd C:\Users\admin\OneDrive\Desktop\amazon
